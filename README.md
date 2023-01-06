@@ -3,6 +3,8 @@
 ![Overview](https://github.com/JELCZU/Szkolna-dictionary/blob/master/img/Overview.PNG)
 Szkolna dictionary is simple app to play funny dialogs from polish youtube channel "Szkolna 17". To play dialog just click button on the screen that you like to hear.
 
+[Demo](https://jelczu.github.io/Szkolna-dictionary/)
+
 ## Table of contents
 
 - [Instalation](#Instalation)
